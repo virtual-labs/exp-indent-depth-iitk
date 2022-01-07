@@ -28,7 +28,7 @@
       "answers": {
         "a": "Enhance hardness",
         "b": "Enhance modulus",
-        "c": "Decrease hardness"
+        "c": "Decrease hardness",
         "d": "Decrease modulus"
       },
       
@@ -40,7 +40,7 @@
       "answers": {
         "a": "Higher elastic recovery",
         "b": "Higher plastic recovery",
-        "c": "Lower elastic recovery"
+        "c": "Lower elastic recovery",
         "d": "Lower plastic recovery"
       },
       
