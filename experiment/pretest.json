@@ -28,7 +28,7 @@
       "answers": {
         "a": "Polymer",
         "b": "Metal",
-        "c": "Glass"
+        "c": "Glass",
         "d": "Ceramic"
       },
       
@@ -40,7 +40,7 @@
       "answers": {
         "a": "Elastic modulus",
         "b": "Hardness",
-        "c": "Fracture toughness"
+        "c": "Fracture toughness",
         "d": "Yield strength"
       },
       
