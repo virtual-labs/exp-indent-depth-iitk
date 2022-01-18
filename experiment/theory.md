@@ -4,7 +4,7 @@ Nanoindentation is a standard method to investigate mechanical properties like h
   <source src="images/nfm.mp4" type="video/mp4">
   Your browser does not support the video tag</video></div><br>
   <div style="content: '.';clear: both;display: block;height: 0;visibility: hidden;"></div>
-<a href="https://youtu.be/-8HISU35vhY">NPTEL Link</a><br><br>
+<a href="https://youtu.be/-8HISU35vhY">NPTEL Lecture Link</a><br><br>
 <b>How to perform Nanoindentation?</b><br><br>
 Nanoindentation is a powerful technique where the indenter tip of known geometry is projected into the specific site in the material to be tested, increasing load is applied and when it reaches the designated maximum value, partial unloading is performed until desired depth is attained. The holding segment is introduced which allows the material to relax before unloading. The process is repeated many times and position of the indenter tip and the surface is monitored with differential transformer.<br><br>
 <b>Indent depth</b> is the depth from the surface of the sample to the indenter tip or indentation depth of the indenter. The maximum depth is the total displacement of the material and the indenter at maximum load which includes the plastic and elastic deformation. Contact depth can be calculated by:-<br><br>
